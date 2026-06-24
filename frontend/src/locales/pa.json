@@ -1,0 +1,70 @@
+{
+  "nav": {
+    "dashboard": "ਡੈਸ਼ਬੋਰਡ",
+    "aiAssistant": "ਏਆਈ ਸਹਾਇਕ",
+    "fraudDetection": "ਧੋਖਾਧੜੀ ਦੀ ਪਛਾਣ",
+    "documents": "ਦਸਤਾਵੇਜ਼",
+    "learningHub": "ਸਿਖਲਾਈ ਹੱਬ",
+    "settings": "ਸੈਟਿੰਗਜ਼",
+    "profile": "ਪ੍ਰੋਫਾਈਲ ਦੇਖੋ",
+    "signOut": "ਸਾਈਨ ਆਊਟ",
+    "brandName": "ਐਸਬੀਆਈ ਸਾਥੀ"
+  },
+  "settings": {
+    "title": "ਸੈਟਿੰਗਜ਼",
+    "language": "ਭਾਸ਼ਾ",
+    "languageDescription": "ਆਪਣੀ ਪਸੰਦੀਦਾ ਭਾਸ਼ਾ ਚੁਣੋ। ਐਪਲੀਕੇਸ਼ਨ ਤੁਰੰਤ ਚੁਣੀ ਗਈ ਭਾਸ਼ਾ ਵਿੱਚ ਬਦਲ ਜਾਵੇਗੀ।",
+    "save": "ਸੈਟਿੰਗਜ਼ ਸੁਰੱਖਿਅਤ ਕਰੋ",
+    "english": "English",
+    "hindi": "Hindi - हिन्दी",
+    "bengali": "Bengali - বাংলা",
+    "tamil": "Tamil - தமிழ்",
+    "telugu": "Telugu - తెలుగు",
+    "marathi": "Marathi - मराठी",
+    "gujarati": "Gujarati - ગુજરાતી",
+    "kannada": "Kannada - ಕನ್ನಡ",
+    "malayalam": "Malayalam - മലയാളം",
+    "punjabi": "Punjabi - ਪੰਜਾਬੀ"
+  },
+  "dashboard": {
+    "welcome": "ਵਾਪਸੀ 'ਤੇ ਸਵਾਗਤ ਹੈ",
+    "overview": "ਸੰਖੇਪ ਜਾਣਕਾਰੀ",
+    "recentActivity": "ਹਾਲੀਆ ਗਤੀਵਿਧੀ",
+    "viewAll": "ਸਾਰੇ ਦੇਖੋ",
+    "stats": {
+      "alerts": "ਸਰਗਰਮ ਅਲਰਟ",
+      "docs": "ਪ੍ਰੋਸੈਸ ਕੀਤੇ ਦਸਤਾਵੇਜ਼",
+      "score": "ਸੁਰੱਖਿਆ ਸਕੋਰ",
+      "modules": "ਪੂਰੇ ਕੀਤੇ ਮੋਡਿਊਲ"
+    }
+  },
+  "auth": {
+    "login": "ਸਾਈਨ ਇਨ ਕਰੋ",
+    "signup": "ਖਾਤਾ ਬਣਾਓ",
+    "email": "ਈਮੇਲ ਪਤਾ",
+    "password": "ਪਾਸਵਰਡ",
+    "forgotPassword": "ਕੀ ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ ਹੋ?",
+    "dontHaveAccount": "ਕੀ ਖਾਤਾ ਨਹੀਂ ਹੈ?",
+    "alreadyHaveAccount": "ਕੀ ਪਹਿਲਾਂ ਹੀ ਖਾਤਾ ਹੈ?"
+  },
+  "chat": {
+    "title": "ਏਆਈ ਸਹਾਇਕ",
+    "placeholder": "ਆਪਣਾ ਸੁਨੇਹਾ ਇੱਥੇ ਟਾਈਪ ਕਰੋ...",
+    "send": "ਭੇਜੋ"
+  },
+  "fraud": {
+    "title": "ਧੋਖਾਧੜੀ ਦੀ ਪਛਾਣ",
+    "scan": "ਟ੍ਰਾਂਜੈਕਸ਼ਨ ਸਕੈਨ ਕਰੋ",
+    "history": "ਸਕੈਨ ਇਤਿਹਾਸ"
+  },
+  "docs": {
+    "title": "ਦਸਤਾਵੇਜ਼ ਵਿਸ਼ਲੇਸ਼ਣ",
+    "upload": "ਦਸਤਾਵੇਜ਼ ਅੱਪਲੋਡ ਕਰੋ",
+    "processing": "ਪ੍ਰੋਸੈਸ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ..."
+  },
+  "learn": {
+    "title": "ਸਿਖਲਾਈ ਹੱਬ",
+    "courses": "ਉਪਲਬਧ ਕੋਰਸ",
+    "progress": "ਤੁਹਾਡੀ ਪ੍ਰਗਤੀ"
+  }
+}

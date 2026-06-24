@@ -1,0 +1,70 @@
+{
+  "nav": {
+    "dashboard": "ડેશબોર્ડ",
+    "aiAssistant": "એઆઇ સહાયક",
+    "fraudDetection": "છેતરપિંડી શોધ",
+    "documents": "દસ્તાવેજો",
+    "learningHub": "લર્નિંગ હબ",
+    "settings": "સેટિંગ્સ",
+    "profile": "પ્રોફાઇલ જુઓ",
+    "signOut": "સાઇન આઉટ",
+    "brandName": "એસબીઆઇ સાથી"
+  },
+  "settings": {
+    "title": "સેટિંગ્સ",
+    "language": "ભાષા",
+    "languageDescription": "તમારી પસંદીદા ભાષા પસંદ કરો. એપ્લિકેશન તરત જ પસંદ કરેલી ભાષામાં બદલાઈ જશે.",
+    "save": "સેટિંગ્સ સાચવો",
+    "english": "English",
+    "hindi": "Hindi - हिन्दी",
+    "bengali": "Bengali - বাংলা",
+    "tamil": "Tamil - தமிழ்",
+    "telugu": "Telugu - తెలుగు",
+    "marathi": "Marathi - मराठी",
+    "gujarati": "Gujarati - ગુજરાતી",
+    "kannada": "Kannada - ಕನ್ನಡ",
+    "malayalam": "Malayalam - മലയാളം",
+    "punjabi": "Punjabi - ਪੰਜਾਬੀ"
+  },
+  "dashboard": {
+    "welcome": "પરત સ્વાગત છે",
+    "overview": "ઝાંખી",
+    "recentActivity": "તાજેતરની પ્રવૃત્તિ",
+    "viewAll": "બધું જુઓ",
+    "stats": {
+      "alerts": "સક્રિય ચેતવણીઓ",
+      "docs": "પ્રક્રિયા કરેલા દસ્તાવેજો",
+      "score": "સુરક્ષા સ્કોર",
+      "modules": "પૂર્ણ કરેલા મોડ્યુલો"
+    }
+  },
+  "auth": {
+    "login": "સાઇન ઇન કરો",
+    "signup": "ખાતું બનાવો",
+    "email": "ઇમેઇલ સરનામું",
+    "password": "પાસવર્ડ",
+    "forgotPassword": "પાસવર્ડ ભૂલી ગયા છો?",
+    "dontHaveAccount": "શું તમારી પાસે ખાતું નથી?",
+    "alreadyHaveAccount": "શું તમારી પાસે પહેલેથી જ ખાતું છે?"
+  },
+  "chat": {
+    "title": "એઆઇ સહાયક",
+    "placeholder": "તમારો સંદેશ અહીં લખો...",
+    "send": "મોકલો"
+  },
+  "fraud": {
+    "title": "છેતરપિંડી શોધ",
+    "scan": "ટ્રાન્ઝેક્શન સ્કેન કરો",
+    "history": "સ્કેન ઇતિહાસ"
+  },
+  "docs": {
+    "title": "દસ્તાવેજ વિશ્લેષણ",
+    "upload": "દસ્તાવેજ અપલોડ કરો",
+    "processing": "પ્રક્રિયા થઈ રહી છે..."
+  },
+  "learn": {
+    "title": "લર્નિંગ હબ",
+    "courses": "ઉપલબ્ધ અભ્યાસક્રમો",
+    "progress": "તમારી પ્રગતિ"
+  }
+}

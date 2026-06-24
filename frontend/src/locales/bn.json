@@ -1,0 +1,70 @@
+{
+  "nav": {
+    "dashboard": "ড্যাশবোর্ড",
+    "aiAssistant": "এআই সহকারী",
+    "fraudDetection": "প্রতারণা সনাক্তকরণ",
+    "documents": "নথিপত্র",
+    "learningHub": "লার্নিং হাব",
+    "settings": "সেটিংস",
+    "profile": "প্রোফাইল দেখুন",
+    "signOut": "সাইন আউট",
+    "brandName": "এসবিআই সাথী"
+  },
+  "settings": {
+    "title": "সেটিংস",
+    "language": "ভাষা",
+    "languageDescription": "আপনার পছন্দের ভাষা নির্বাচন করুন। অ্যাপ্লিকেশন অবিলম্বে নির্বাচিত ভাষায় স্যুইচ হবে।",
+    "save": "সেটিংস সংরক্ষণ করুন",
+    "english": "English",
+    "hindi": "Hindi - हिन्दी",
+    "bengali": "Bengali - বাংলা",
+    "tamil": "Tamil - தமிழ்",
+    "telugu": "Telugu - తెలుగు",
+    "marathi": "Marathi - मराठी",
+    "gujarati": "Gujarati - ગુજરાતી",
+    "kannada": "Kannada - ಕನ್ನಡ",
+    "malayalam": "Malayalam - മലയാളം",
+    "punjabi": "Punjabi - ਪੰਜਾਬੀ"
+  },
+  "dashboard": {
+    "welcome": "ফিরে আসার জন্য স্বাগতম",
+    "overview": "ওভারভিউ",
+    "recentActivity": "সাম্প্রতিক কার্যকলাপ",
+    "viewAll": "সব দেখুন",
+    "stats": {
+      "alerts": "সক্রিয় সতর্কতা",
+      "docs": "প্রক্রিয়াজাত নথিপত্র",
+      "score": "নিরাপত্তা স্কোর",
+      "modules": "মডিউল সম্পন্ন"
+    }
+  },
+  "auth": {
+    "login": "সাইন ইন করুন",
+    "signup": "অ্যাকাউন্ট তৈরি করুন",
+    "email": "ইমেইল ঠিকানা",
+    "password": "পাসওয়ার্ড",
+    "forgotPassword": "পাসওয়ার্ড ভুলে গেছেন?",
+    "dontHaveAccount": "অ্যাকাউন্ট নেই?",
+    "alreadyHaveAccount": "ইতোমধ্যে একটি অ্যাকাউন্ট আছে?"
+  },
+  "chat": {
+    "title": "এআই সহকারী",
+    "placeholder": "আপনার বার্তা এখানে টাইপ করুন...",
+    "send": "পাঠান"
+  },
+  "fraud": {
+    "title": "প্রতারণা সনাক্তকরণ",
+    "scan": "লেনদেন স্ক্যান করুন",
+    "history": "স্ক্যানের ইতিহাস"
+  },
+  "docs": {
+    "title": "নথি বিশ্লেষণ",
+    "upload": "নথি আপলোড করুন",
+    "processing": "প্রক্রিয়াজাতকরণ..."
+  },
+  "learn": {
+    "title": "লার্নিং হাব",
+    "courses": "উপলব্ধ কোর্স",
+    "progress": "আপনার অগ্রগতি"
+  }
+}

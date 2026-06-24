@@ -1,0 +1,70 @@
+{
+  "nav": {
+    "dashboard": "முகப்புப் பலகை",
+    "aiAssistant": "AI உதவியாளர்",
+    "fraudDetection": "மோசடி கண்டறிதல்",
+    "documents": "ஆவணங்கள்",
+    "learningHub": "கற்றல் மையம்",
+    "settings": "அமைப்புகள்",
+    "profile": "சுயவிவரம் காண்க",
+    "signOut": "வெளியேறு",
+    "brandName": "எஸ்பிஐ சாத்தி"
+  },
+  "settings": {
+    "title": "அமைப்புகள்",
+    "language": "மொழி",
+    "languageDescription": "உங்கள் விருப்பமான மொழியைத் தேர்ந்தெடுக்கவும். பயன்பாடு உடனடியாக தேர்ந்தெடுக்கப்பட்ட மொழிக்கு மாறும்.",
+    "save": "அமைப்புகளைச் சேமி",
+    "english": "English",
+    "hindi": "Hindi - हिन्दी",
+    "bengali": "Bengali - বাংলা",
+    "tamil": "Tamil - தமிழ்",
+    "telugu": "Telugu - తెలుగు",
+    "marathi": "Marathi - मराठी",
+    "gujarati": "Gujarati - ગુજરાતી",
+    "kannada": "Kannada - ಕನ್ನಡ",
+    "malayalam": "Malayalam - മലയാളം",
+    "punjabi": "Punjabi - ਪੰਜਾਬੀ"
+  },
+  "dashboard": {
+    "welcome": "மீண்டும் வருக",
+    "overview": "மேலோட்டம்",
+    "recentActivity": "சமீபத்திய செயல்பாடு",
+    "viewAll": "அனைத்தையும் காண்க",
+    "stats": {
+      "alerts": "செயலில் உள்ள எச்சரிக்கைகள்",
+      "docs": "செயலாக்கப்பட்ட ஆவணங்கள்",
+      "score": "பாதுகாப்பு மதிப்பெண்",
+      "modules": "முடிக்கப்பட்ட தொகுதிகள்"
+    }
+  },
+  "auth": {
+    "login": "உள்நுழைக",
+    "signup": "கணக்கை உருவாக்கு",
+    "email": "மின்னஞ்சல் முகவரி",
+    "password": "கடவுச்சொல்",
+    "forgotPassword": "கடவுச்சொல் மறந்துவிட்டதா?",
+    "dontHaveAccount": "கணக்கு இல்லையா?",
+    "alreadyHaveAccount": "ஏற்கனவே கணக்கு உள்ளதா?"
+  },
+  "chat": {
+    "title": "AI உதவியாளர்",
+    "placeholder": "உங்கள் செய்தியை இங்கே தட்டச்சு செய்க...",
+    "send": "அனுப்பு"
+  },
+  "fraud": {
+    "title": "மோசடி கண்டறிதல்",
+    "scan": "பரிவர்த்தனையை ஸ்கேன் செய்",
+    "history": "ஸ்கேன் வரலாறு"
+  },
+  "docs": {
+    "title": "ஆவண பகுப்பாய்வு",
+    "upload": "ஆவணத்தைப் பதிவேற்று",
+    "processing": "செயலாக்கப்படுகிறது..."
+  },
+  "learn": {
+    "title": "கற்றல் மையம்",
+    "courses": "கிடைக்கும் படிப்புகள்",
+    "progress": "உங்கள் முன்னேற்றம்"
+  }
+}

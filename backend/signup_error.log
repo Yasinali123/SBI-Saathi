@@ -1,0 +1,9 @@
+--- SIGNUP ERROR ---
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\WEB\SBI Saathiii\backend\app\api\routes\auth.py", line 35, in signup
+    raise HTTPException(
+    ...<2 lines>...
+    )
+fastapi.exceptions.HTTPException: 409: An account with this email already exists
+
+--------------------

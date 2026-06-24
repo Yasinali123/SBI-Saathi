@@ -1,0 +1,70 @@
+{
+  "nav": {
+    "dashboard": "ഡാഷ്ബോർഡ്",
+    "aiAssistant": "എഐ അസിസ്റ്റന്റ്",
+    "fraudDetection": "തട്ടിപ്പ് കണ്ടെത്തൽ",
+    "documents": "രേഖകൾ",
+    "learningHub": "ലേണിംഗ് ഹബ്",
+    "settings": "ക്രമീകരണങ്ങൾ",
+    "profile": "പ്രൊഫൈൽ കാണുക",
+    "signOut": "സൈൻ ഔട്ട്",
+    "brandName": "എസ്ബിഐ സാഥി"
+  },
+  "settings": {
+    "title": "ക്രമീകരണങ്ങൾ",
+    "language": "ഭാഷ",
+    "languageDescription": "നിങ്ങൾക്ക് ഇഷ്ടമുള്ള ഭാഷ തിരഞ്ഞെടുക്കുക. ആപ്ലിക്കേഷൻ ഉടനടി തിരഞ്ഞെടുത്ത ഭാഷയിലേക്ക് മാറും.",
+    "save": "ക്രമീകരണങ്ങൾ സംരക്ഷിക്കുക",
+    "english": "English",
+    "hindi": "Hindi - हिन्दी",
+    "bengali": "Bengali - বাংলা",
+    "tamil": "Tamil - தமிழ்",
+    "telugu": "Telugu - తెలుగు",
+    "marathi": "Marathi - मराठी",
+    "gujarati": "Gujarati - ગુજરાતી",
+    "kannada": "Kannada - ಕನ್ನಡ",
+    "malayalam": "Malayalam - മലയാളം",
+    "punjabi": "Punjabi - ਪੰਜਾਬੀ"
+  },
+  "dashboard": {
+    "welcome": "തിരികെ സ്വാഗതം",
+    "overview": "അവലോകനം",
+    "recentActivity": "സമീപകാല പ്രവർത്തനം",
+    "viewAll": "എല്ലാം കാണുക",
+    "stats": {
+      "alerts": "സജീവ അലർട്ടുകൾ",
+      "docs": "പ്രോസസ്സ് ചെയ്ത രേഖകൾ",
+      "score": "സുരക്ഷാ സ്കോർ",
+      "modules": "പൂർത്തിയാക്കിയ മൊഡ്യൂളുകൾ"
+    }
+  },
+  "auth": {
+    "login": "സൈൻ ഇൻ",
+    "signup": "അക്കൗണ്ട് സൃഷ്ടിക്കുക",
+    "email": "ഇമെയിൽ വിലാസം",
+    "password": "പാസ്‌വേഡ്",
+    "forgotPassword": "പാസ്‌വേഡ് മറന്നോ?",
+    "dontHaveAccount": "അക്കൗണ്ട് ഇല്ലേ?",
+    "alreadyHaveAccount": "നിലവിൽ അക്കൗണ്ട് ഉണ്ടോ?"
+  },
+  "chat": {
+    "title": "എഐ അസിസ്റ്റന്റ്",
+    "placeholder": "നിങ്ങളുടെ സന്ദേശം ഇവിടെ ടൈപ്പ് ചെയ്യുക...",
+    "send": "അയയ്ക്കുക"
+  },
+  "fraud": {
+    "title": "തട്ടിപ്പ് കണ്ടെത്തൽ",
+    "scan": "ഇടപാട് സ്കാൻ ചെയ്യുക",
+    "history": "സ്കാൻ ചരിത്രം"
+  },
+  "docs": {
+    "title": "രേഖാ വിശകലനം",
+    "upload": "രേഖ അപ്‌ലോഡ് ചെയ്യുക",
+    "processing": "പ്രോസസ്സ് ചെയ്യുന്നു..."
+  },
+  "learn": {
+    "title": "ലേണിംഗ് ഹബ്",
+    "courses": "ലഭ്യമായ കോഴ്സുകൾ",
+    "progress": "നിങ്ങളുടെ പുരോഗതി"
+  }
+}

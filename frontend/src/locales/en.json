@@ -1,0 +1,70 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "aiAssistant": "AI Assistant",
+    "fraudDetection": "Fraud Detection",
+    "documents": "Documents",
+    "learningHub": "Learning Hub",
+    "settings": "Settings",
+    "profile": "View Profile",
+    "signOut": "Sign Out",
+    "brandName": "SBI Saathi"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "languageDescription": "Select your preferred language. The application will instantly switch to the selected language.",
+    "save": "Save Settings",
+    "english": "English",
+    "hindi": "Hindi - हिन्दी",
+    "bengali": "Bengali - বাংলা",
+    "tamil": "Tamil - தமிழ்",
+    "telugu": "Telugu - తెలుగు",
+    "marathi": "Marathi - मराठी",
+    "gujarati": "Gujarati - ગુજરાતી",
+    "kannada": "Kannada - ಕನ್ನಡ",
+    "malayalam": "Malayalam - മലയാളം",
+    "punjabi": "Punjabi - ਪੰਜਾਬੀ"
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "overview": "Overview",
+    "recentActivity": "Recent Activity",
+    "viewAll": "View All",
+    "stats": {
+      "alerts": "Active Alerts",
+      "docs": "Documents Processed",
+      "score": "Security Score",
+      "modules": "Modules Completed"
+    }
+  },
+  "auth": {
+    "login": "Sign In",
+    "signup": "Create Account",
+    "email": "Email Address",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "dontHaveAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?"
+  },
+  "chat": {
+    "title": "AI Assistant",
+    "placeholder": "Type your message here...",
+    "send": "Send"
+  },
+  "fraud": {
+    "title": "Fraud Detection",
+    "scan": "Scan Transaction",
+    "history": "Scan History"
+  },
+  "docs": {
+    "title": "Document Analysis",
+    "upload": "Upload Document",
+    "processing": "Processing..."
+  },
+  "learn": {
+    "title": "Learning Hub",
+    "courses": "Available Courses",
+    "progress": "Your Progress"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "nav": {
+    "dashboard": "डॅशबोर्ड",
+    "aiAssistant": "AI सहाय्यक",
+    "fraudDetection": "फसवणूक शोध",
+    "documents": "दस्तऐवज",
+    "learningHub": "शिक्षण केंद्र",
+    "settings": "सेटिंग्ज",
+    "profile": "प्रोफाइल पहा",
+    "signOut": "साइन आउट",
+    "brandName": "एसबीआय साथी"
+  },
+  "settings": {
+    "title": "सेटिंग्ज",
+    "language": "भाषा",
+    "languageDescription": "तुमची पसंतीची भाषा निवडा. अ‍ॅप्लिकेशन त्वरित निवडलेल्या भाषेत बदलेल.",
+    "save": "सेटिंग्ज जतन करा",
+    "english": "English",
+    "hindi": "Hindi - हिन्दी",
+    "bengali": "Bengali - বাংলা",
+    "tamil": "Tamil - தமிழ்",
+    "telugu": "Telugu - తెలుగు",
+    "marathi": "Marathi - मराठी",
+    "gujarati": "Gujarati - ગુજરાતી",
+    "kannada": "Kannada - ಕನ್ನಡ",
+    "malayalam": "Malayalam - മലയാളം",
+    "punjabi": "Punjabi - ਪੰਜਾਬੀ"
+  },
+  "dashboard": {
+    "welcome": "परत स्वागत आहे",
+    "overview": "आढावा",
+    "recentActivity": "अलीकडील क्रियाकलाप",
+    "viewAll": "सर्व पहा",
+    "stats": {
+      "alerts": "सक्रिय सूचना",
+      "docs": "प्रक्रिया केलेले दस्तऐवज",
+      "score": "सुरक्षा स्कोअर",
+      "modules": "पूर्ण झालेले मॉड्यूल"
+    }
+  },
+  "auth": {
+    "login": "साइन इन करा",
+    "signup": "खाते तयार करा",
+    "email": "ईमेल पत्ता",
+    "password": "पासवर्ड",
+    "forgotPassword": "पासवर्ड विसरलात?",
+    "dontHaveAccount": "खाते नाही?",
+    "alreadyHaveAccount": "आधीपासूनच खाते आहे?"
+  },
+  "chat": {
+    "title": "AI सहाय्यक",
+    "placeholder": "तुमचा संदेश येथे टाइप करा...",
+    "send": "पाठवा"
+  },
+  "fraud": {
+    "title": "फसवणूक शोध",
+    "scan": "व्यवहार स्कॅन करा",
+    "history": "स्कॅन इतिहास"
+  },
+  "docs": {
+    "title": "दस्तऐवज विश्लेषण",
+    "upload": "दस्तऐवज अपलोड करा",
+    "processing": "प्रक्रिया करत आहे..."
+  },
+  "learn": {
+    "title": "शिक्षण केंद्र",
+    "courses": "उपलब्ध अभ्यासक्रम",
+    "progress": "तुमची प्रगती"
+  }
+}

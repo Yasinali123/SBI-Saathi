@@ -1,0 +1,49 @@
+{
+  "courses": [
+    {
+      "id": "c1",
+      "title": "Digital Banking Basics",
+      "description": "Learn the fundamentals of using banking applications securely.",
+      "category": "basics",
+      "difficulty": "beginner",
+      "duration_minutes": 15,
+      "icon": "📱",
+      "badge": "Digital Novice",
+      "lessons": [
+        { "id": "l1", "title": "Navigating the App", "duration": 5 },
+        { "id": "l2", "title": "Checking Balance", "duration": 5 },
+        { "id": "l3", "title": "Downloading Statements", "duration": 5 }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Mastering UPI",
+      "description": "A comprehensive guide to safe and fast UPI transactions.",
+      "category": "payments",
+      "difficulty": "intermediate",
+      "duration_minutes": 20,
+      "icon": "💸",
+      "badge": "UPI Expert",
+      "lessons": [
+        { "id": "l4", "title": "Setting up UPI PIN", "duration": 5 },
+        { "id": "l5", "title": "Scanning QR Codes", "duration": 5 },
+        { "id": "l6", "title": "Sending to Contacts", "duration": 10 }
+      ]
+    },
+    {
+      "id": "c3",
+      "title": "Fraud Prevention",
+      "description": "Learn how to spot and avoid common banking scams.",
+      "category": "security",
+      "difficulty": "advanced",
+      "duration_minutes": 30,
+      "icon": "🛡️",
+      "badge": "Security Sentinel",
+      "lessons": [
+        { "id": "l7", "title": "Identifying Phishing", "duration": 10 },
+        { "id": "l8", "title": "Safe Passwords", "duration": 10 },
+        { "id": "l9", "title": "Reporting Fraud", "duration": 10 }
+      ]
+    }
+  ]
+}

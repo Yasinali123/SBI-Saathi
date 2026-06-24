@@ -1,0 +1,70 @@
+{
+  "nav": {
+    "dashboard": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+    "aiAssistant": "ಎಐ ಸಹಾಯಕ",
+    "fraudDetection": "ವಂಚನೆ ಪತ್ತೆ",
+    "documents": "ದಾಖಲೆಗಳು",
+    "learningHub": "ಲರ್ನಿಂಗ್ ಹಬ್",
+    "settings": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+    "profile": "ಪ್ರೊಫೈಲ್ ವೀಕ್ಷಿಸಿ",
+    "signOut": "ಸೈನ್ ಔಟ್",
+    "brandName": "ಎಸ್‌ಬಿಐ ಸಾಥಿ"
+  },
+  "settings": {
+    "title": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+    "language": "ಭಾಷೆ",
+    "languageDescription": "ನಿಮ್ಮ ಆದ್ಯತೆಯ ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ. ಅಪ್ಲಿಕೇಶನ್ ತಕ್ಷಣವೇ ಆಯ್ಕೆಮಾಡಿದ ಭಾಷೆಗೆ ಬದಲಾಗುತ್ತದೆ.",
+    "save": "ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಉಳಿಸಿ",
+    "english": "English",
+    "hindi": "Hindi - हिन्दी",
+    "bengali": "Bengali - বাংলা",
+    "tamil": "Tamil - தமிழ்",
+    "telugu": "Telugu - తెలుగు",
+    "marathi": "Marathi - मराठी",
+    "gujarati": "Gujarati - ગુજરાતી",
+    "kannada": "Kannada - ಕನ್ನಡ",
+    "malayalam": "Malayalam - മലയാളം",
+    "punjabi": "Punjabi - ਪੰਜਾਬੀ"
+  },
+  "dashboard": {
+    "welcome": "ಮರಳಿ ಸ್ವಾಗತ",
+    "overview": "ಅವಲೋಕನ",
+    "recentActivity": "ಇತ್ತೀಚಿನ ಚಟುವಟಿಕೆ",
+    "viewAll": "ಎಲ್ಲವನ್ನೂ ವೀಕ್ಷಿಸಿ",
+    "stats": {
+      "alerts": "ಸಕ್ರಿಯ ಎಚ್ಚರಿಕೆಗಳು",
+      "docs": "ಸಂಸ್ಕರಿಸಿದ ದಾಖಲೆಗಳು",
+      "score": "ಭದ್ರತಾ ಸ್ಕೋರ್",
+      "modules": "ಪೂರ್ಣಗೊಂಡ ಮಾಡ್ಯೂಲ್‌ಗಳು"
+    }
+  },
+  "auth": {
+    "login": "ಸೈನ್ ಇನ್",
+    "signup": "ಖಾತೆ ರಚಿಸಿ",
+    "email": "ಇಮೇಲ್ ವಿಳಾಸ",
+    "password": "ಪಾಸ್ವರ್ಡ್",
+    "forgotPassword": "ಪಾಸ್ವರ್ಡ್ ಮರೆತಿರಾ?",
+    "dontHaveAccount": "ಖಾತೆ ಇಲ್ಲವೇ?",
+    "alreadyHaveAccount": "ಈಗಾಗಲೇ ಖಾತೆ ಹೊಂದಿದ್ದೀರಾ?"
+  },
+  "chat": {
+    "title": "ಎಐ ಸಹಾಯಕ",
+    "placeholder": "ನಿಮ್ಮ ಸಂದೇಶವನ್ನು ಇಲ್ಲಿ ಟೈಪ್ ಮಾಡಿ...",
+    "send": "ಕಳುಹಿಸಿ"
+  },
+  "fraud": {
+    "title": "ವಂಚನೆ ಪತ್ತೆ",
+    "scan": "ವಹಿವಾಟನ್ನು ಸ್ಕ್ಯಾನ್ ಮಾಡಿ",
+    "history": "ಸ್ಕ್ಯಾನ್ ಇತಿಹಾಸ"
+  },
+  "docs": {
+    "title": "ದಾಖಲೆ ವಿಶ್ಲೇಷಣೆ",
+    "upload": "ದಾಖಲೆಯನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ",
+    "processing": "ಸಂಸ್ಕರಿಸಲಾಗುತ್ತಿದೆ..."
+  },
+  "learn": {
+    "title": "ಲರ್ನಿಂಗ್ ಹಬ್",
+    "courses": "ಲಭ್ಯವಿರುವ ಕೋರ್ಸ್‌ಗಳು",
+    "progress": "ನಿಮ್ಮ ಪ್ರಗತಿ"
+  }
+}
