@@ -5,7 +5,7 @@ from typing import List
 
 class Settings(BaseSettings):
     gemini_api_key: str = ""
-    allowed_origins: str = "http://localhost:5173,http://localhost:3000"
+    allowed_origins: str = "http://localhost:5173,http://localhost:3000,https://sbi-saathi.vercel.app,https://sbi-saathi-git-main-sbi-saathi.vercel.app"
     app_env: str = "development"
     debug: bool = True
 
