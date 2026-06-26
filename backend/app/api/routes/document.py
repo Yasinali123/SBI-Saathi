@@ -13,6 +13,7 @@ import pytesseract
 import fitz  # PyMuPDF
 
 router = APIRouter(prefix="/api/document-explain", tags=["Document Analysis"])
+settings = get_settings()
 genai.configure(api_key=settings.gemini_api_key)
 
 ALLOWED_TYPES = {
@@ -85,16 +86,16 @@ async def upload_document(file: UploadFile = File(...)):
     }}
     """
 
-   try:
-    model = genai.GenerativeModel("gemini-2.5-flash")
-    response = model.generate_content(prompt)
-    resp_text = response.text
+    try:
+        model = genai.GenerativeModel("gemini-2.5-flash")
+        response = model.generate_content(prompt)
+        resp_text = response.text
 
-    match = re.search(r"\{.*\}", resp_text, re.DOTALL)
-    if match:
-        analysis = json.loads(match.group())
-    else:
-        analysis = json.loads(resp_text)
+        match = re.search(r"\{.*\}", resp_text, re.DOTALL)
+        if match:
+            analysis = json.loads(match.group())
+        else:
+            analysis = json.loads(resp_text)
     except Exception as e:
         analysis = {
             "summary": "Could not analyze document properly. " + str(e),
